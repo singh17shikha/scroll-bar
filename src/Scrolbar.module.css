@@ -1,0 +1,10 @@
+.scrollbar {
+    height: 300px;
+    overflow-y: scroll;
+    padding-right: 20px;
+    }
+    
+
+    .scrollbar::-webkit-scrollbar {
+    display: none;
+    }
